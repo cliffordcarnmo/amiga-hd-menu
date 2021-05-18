@@ -6,10 +6,10 @@ A BBS/packdisk menu-style replacement for Workbench with everything you need to 
 **Usage**
 
 There are several ways to use amisys, here are a few:
-* Write [**amisys.img**](https://drive.google.com/file/d/1_2WDeK7cE4fEGRmGO8-555GHHVO9rn-Q) to a compact flash or SD-card with dd, win32diskimager or similar and install it in your real Amiga using an internal IDE adapter or use it in a external USB-IDE-adapter as harddrive in your Amiga emulator
+* Write [**amisys.img**](https://www.carnmo.com/files/amisys.img) to a compact flash or SD-card with dd, win32diskimager or similar and put it in your real Amiga using an internal IDE adapter or use it in an external USB-IDE-adapter as harddrive in your Amiga emulator
 * Clone the files in the **dh0** directory straight to your existing real Amiga harddrive or use it as harddrive path in your Amiga emulator
 
-Please note that by writing [**amisys.img**](https://drive.google.com/file/d/1_2WDeK7cE4fEGRmGO8-555GHHVO9rn-Q) to a compact flash or SD-card you get a properly configured system with two partitions (system: and data:) based on the PFS filesystem for superior stability and performance compared to FFS. **Please consider using amisys this way!**
+Please note that by writing [**amisys.img**](https://www.carnmo.com/files/amisys.img) to a compact flash or SD-card you get a properly configured system with two partitions (system: and data:) based on the PFS filesystem for superior stability and performance compared to FFS. **Please consider using amisys this way!**
 
 **Included software**
 
